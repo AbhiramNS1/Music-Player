@@ -1,0 +1,2 @@
+javac -d bin -classpath C:\Users\s\Desktop\packages\javafx-sdk-17.0.2\lib\*;C:\Users\s\Desktop\java\Projects\MusicPlayer\MusicPlayer  src/MusicPlayer.java lib/*.java component/*.java component/MusicPanel/*.java
+java  -cp bin;C:\Users\s\Desktop\packages\javafx-sdk-17.0.2\lib\*;  MusicPlayer
